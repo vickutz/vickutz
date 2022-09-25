@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Viktor Stephen
 - 🌱 I’m currently learning data science and machine learning 
 - 💞️ I’m looking to collaborate on pojects
-- 📫 How to reach me: vitoratsen@gmail.com
+- 📫 How to reach me: victoratsen@gmail.com, https://twitter.com/VIC_kutz
 - 🤔I’m looking for oppurtunities to get much needed expertise and experience while getting paid at it🙏
 
 <!---
