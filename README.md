@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viktor Stephen a LowCodeTechies
-- 🌱 I’m currently learning data science  machine learning and microsoft power apps
-- 💞️ I’m looking forward to collaborate on real life pojects
+- 👀 I’m interested in Data and Business Analytics.
+- 🌱 I currently use Python to complement SQL and Power BI in data querrying, manipulation and visualization.
 - 📫 How to reach me: victoratsen@gmail.com, https://twitter.com/VIC_kutz
 - 🤔I’m looking for oppurtunities to get much needed expertise and experience
 
