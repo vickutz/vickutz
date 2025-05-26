@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Viktor Stephen a LowCodeTechies
+- 👋 Hi, I’m Viktor Stephen a LowCodeTechies
 - 👀 I’m interested in Data and Business Analytics.
-- 🌱 I currently use Python to complement SQL and Power BI in data querrying, manipulation and visualization.
+- 🌱 I currently use Python to complement Excel, SQL and Power BI in data querrying, manipulation and visualization.
 - 📫 How to reach me: victoratsen@gmail.com, https://twitter.com/VIC_kutz
 - 🤔I’m looking for oppurtunities to get much needed expertise and experience
 
